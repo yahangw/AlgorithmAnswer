@@ -1,2 +1,1 @@
-# Hello-World
-A test readme file.
+Answers to practice paper and sample test.
